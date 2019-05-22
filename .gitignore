@@ -1,0 +1,11 @@
+.vs/
+sfml/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.dll
+x86/
+x64/
+ignored/
+*.psd

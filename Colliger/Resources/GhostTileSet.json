@@ -1,0 +1,15 @@
+{
+  "columns": 12,
+  "image": "GhostTiles.png",
+  "imageheight": 352,
+  "imagewidth": 528,
+  "margin": 0,
+  "name": "GhostTileSet",
+  "spacing": 0,
+  "tilecount": 96,
+  "tiledversion": "1.2.3",
+  "tileheight": 44,
+  "tilewidth": 44,
+  "type": "tileset",
+  "version": 1.2
+}

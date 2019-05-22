@@ -1,0 +1,15 @@
+{
+  "columns": 8,
+  "image": "ColligerTiles.png",
+  "imageheight": 176,
+  "imagewidth": 352,
+  "margin": 0,
+  "name": "ColligerTileSet",
+  "spacing": 0,
+  "tilecount": 32,
+  "tiledversion": "1.2.3",
+  "tileheight": 44,
+  "tilewidth": 44,
+  "type": "tileset",
+  "version": 1.2
+}

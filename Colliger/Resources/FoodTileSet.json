@@ -1,0 +1,15 @@
+{
+  "columns": 8,
+  "image": "FoodTiles.png",
+  "imageheight": 88,
+  "imagewidth": 352,
+  "margin": 0,
+  "name": "FoodTileSet",
+  "spacing": 0,
+  "tilecount": 16,
+  "tiledversion": "1.2.3",
+  "tileheight": 44,
+  "tilewidth": 44,
+  "type": "tileset",
+  "version": 1.2
+}
